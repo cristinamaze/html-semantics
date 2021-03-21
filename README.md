@@ -8,3 +8,6 @@ However, changing the color contrast in the paragraph elements on lines 69, 77, 
 Given this accessibility fault, it is my suggestion that these design choices should be altered slightly in order to be compliant. 
 Live URL: https://cristinamaze.github.io/html-semantics/
 ![](assets/images/website-screenshot.png)
+
+Technologies used: HTML, CSS
+License: MIT
